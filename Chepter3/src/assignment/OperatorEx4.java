@@ -11,7 +11,7 @@ public class OperatorEx4 {
 		num1 -= 1;
 		System.out.println(num1);
 		
-		int num2 = (5 < 3) ? 10: 20;
+		int num2 = (5 < 3) ? 10 : 20;
 		System.out.println(num2);
 	}
 
