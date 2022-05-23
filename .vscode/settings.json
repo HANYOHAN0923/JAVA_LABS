@@ -1,0 +1,7 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "json.schemas": [],
+  "[java]": {
+    "editor.defaultFormatter": "redhat.java"
+  }
+}
