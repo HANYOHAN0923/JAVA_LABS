@@ -5,36 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="093d30b2-cb15-4069-9577-bb9799096cb4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Chapter3/src/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Chapter3/src/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Chapter3/src/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Chapter3/src/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Chepter3/bin/.project" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Chapter2/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Chapter2/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Chapter2/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Chapter2/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Chapter2/src/binary/BinaryTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Chapter2/src/binary/BinaryTest2Complement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Chapter2/src/binary/ByteVariable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Chapter2/src/binary/CharacterEx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Chapter2/src/binary/DoubleEx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Chapter2/src/binary/ExplicitConversion.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Chapter2/src/binary/ImplicitConversion.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Chapter2/src/binary/VariableEx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Chapter2/src/binary/VariableEx2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Chapter4/bin/ifexample/ifExample1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Chapter4/bin/ifexample/ifExample1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Chapter4/src/ifexample/ifExample1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Chapter4/src/ifexample/ifExample1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Chepter3/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Chepter3/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Chepter3/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Chepter3/src/assignment/OperationEx.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Chepter3/src/assignment/OperatorEx2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Chepter3/src/assignment/OperatorEx3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Chepter3/src/assignment/OperatorEx4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Chepter3/src/assignment/OperatorEx5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Eclipse IDE for Java Developers - 2021-06.lnk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JAVA 정리.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter2/binary/BinaryTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter2/binary/BinaryTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA 정리.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA 정리.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +23,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/out/production/Chapter2/binary/BinaryTest.class" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/out/production/Chapter2/binary/ComplementExample.class" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/PrintfEx.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/binary/BinaryTest.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/binary/ComplementExample.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/variable/VariableExample.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -75,20 +56,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.toDoOptions&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ComplementExample">
-    <configuration name="BinaryTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="binary.BinaryTest" />
-      <module name="Chapter2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="binary.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.VariableExample">
     <configuration name="CharEnDecoding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="variable.CharEnDecoding" />
       <module name="Chapter2" />
@@ -141,13 +109,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="binary.BinaryTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="binary.BinaryTest" />
+      <module name="Chapter2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="binary.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ComplementExample" />
         <item itemvalue="Application.VariableExample" />
         <item itemvalue="Application.CharEnDecoding" />
+        <item itemvalue="Application.binary.BinaryTest" />
+        <item itemvalue="Application.ComplementExample" />
         <item itemvalue="Application.ExplictConversion" />
-        <item itemvalue="Application.BinaryTest" />
       </list>
     </recent_temporary>
   </component>
