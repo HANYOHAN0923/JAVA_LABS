@@ -4,7 +4,9 @@ public class ArrayExample1 {
     public static void main(String[] args) {
         // 자료형[] 변수이름 = new 자로형[] {배열 초기화 값} => String[] member = new String[] {"chaewon","yuri","yena"};
         // 아래는 간단하게
-        String[] member = {"chaewon","yuri","yena"};
+        String[] member = {"chaewon","yuri", null};
+        member[2] = new String("ye"); // String은 클래스이므로 new 연산자를 통해 객체를 생성하는 것이 맞지만
+        member[2] = "yena"; // 특별히 String 클래스만 "yena"같이 큰 따옴표만으로 간략히 표현하는게 혀용된다.
 
 
         // 배열의 길이 = 배열 안의 요소의 개수
