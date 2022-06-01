@@ -10,7 +10,8 @@ public class ArrayCopyExample2 {
         // 배열 abc와 num을 붙여서 하나의 배열(result)로 만든다
         char[] result = new char[abc.length+num.length];    // 길이 먼저 만들어주기
         System.arraycopy(abc, 0, result, 0, abc.length);    // abc[0]에서부터의 데이터를 result[0]으로 abc.length개 복사
-        System.arraycopy(num, 0, result, abc.length, num.length);     // num[0]에서부터의 데이터를 result[length]으로 num.length개 복사
+        System.out.println(result);
+        System.arraycopy(num, 0, result, abc.length, num.length);     // num[0]에서부터의 데이터를 result[abc.length]으로 num.length개 복사
         System.out.println(result);
 
         System.arraycopy(abc, 0, num, 0, abc.length);   // abc[0]에서부터의 데이터를 num[0]위치부터 배열 abc의 길이만큼 데이터를 복사

@@ -23,7 +23,7 @@ public class ArrayCopyExample {
         arr = temp; // temp에 저장된 값을 arr에 저장
 
         System.out.println("[변경후]");
-        System.out.println("arr.length"+arr.length);
+        System.out.println("arr.length: "+arr.length);
         for (int i = 0; i < arr.length; i++) {
             System.out.printf("arr[%d]: %d%n",i,arr[i]);
         }
