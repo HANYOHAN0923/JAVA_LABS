@@ -5,9 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="093d30b2-cb15-4069-9577-bb9799096cb4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/PrintMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chapter5_Array/src/multiDimensional/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter2/PrintfEx.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Chapter2/binary/BinaryTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter2/binary/BinaryTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JAVA 정리.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../JAVA 정리.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PrintfEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter5_Array/out/production/Chapter5_Array/multiDimensional/MultiArrEx3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter5_Array/out/production/Chapter5_Array/multiDimensional/MultiArrEx3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter5_Array/out/production/Chapter5_Array/multiDimensional/MultiArrEx4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter5_Array/out/production/Chapter5_Array/multiDimensional/MultiArrEx4.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,11 +30,13 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/out/production/Chapter2/binary/BinaryTest.class" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/out/production/Chapter2/binary/BinaryTest.class" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/out/production/Chapter2/binary/ComplementExample.class" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/PrintfEx.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/out/production/Chapter2/conversion/ImplicitConversion.class" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/PrintMethod.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/binary/BinaryTest.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/binary/ComplementExample.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/variable/CharEnDecoding.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/variable/VariableExample.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -56,7 +63,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.toDoOptions&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.VariableExample">
+  <component name="RunManager" selected="Application.PrintMethod">
     <configuration name="CharEnDecoding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="variable.CharEnDecoding" />
       <module name="Chapter2" />
@@ -83,15 +90,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExplictConversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="conversion.ExplictConversion" />
+    <configuration name="PrintMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrintMethod" />
       <module name="Chapter2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="conversion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -124,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrintMethod" />
         <item itemvalue="Application.VariableExample" />
         <item itemvalue="Application.CharEnDecoding" />
         <item itemvalue="Application.binary.BinaryTest" />
         <item itemvalue="Application.ComplementExample" />
-        <item itemvalue="Application.ExplictConversion" />
       </list>
     </recent_temporary>
   </component>
