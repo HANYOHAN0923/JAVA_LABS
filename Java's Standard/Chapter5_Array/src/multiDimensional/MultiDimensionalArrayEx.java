@@ -9,11 +9,11 @@ public class MultiDimensionalArrayEx {
         mulArray[0][0] = 100;    // arrayName[columnIndex][rowIndex]식으로 배열의 요소에 접근할 수 있다
 
         int[][] score = {
+                {100,98,100},
+                {100,67,99},
+                {98,98,97},
                 {100,100,100},
-                {20,20,20},
-                {30,30,30},
-                {40,40,40},
-                {50,50,50}
+                {97,86,95}
         };
 
         // 2차원 배열 출력
@@ -35,6 +35,7 @@ public class MultiDimensionalArrayEx {
 
 
         int koTotal = 0, enTotal = 0, mathTotal = 0;
+        float koAvg = 0.0f, enAvg = 0.0f, mathAvg = 0.0f;
 
         System.out.println("번호 국어 영어 수학 총점 평균");
         System.out.println("=================================");
@@ -57,5 +58,11 @@ public class MultiDimensionalArrayEx {
         }
         System.out.println("=================================");
         System.out.printf("총점: %3d %4d %4d%n", koTotal, enTotal, mathTotal);
+
+        koAvg = koTotal/(float)score.length;    // 국어 전체 평균
+        enAvg = enTotal/(float)score.length;    // 영어 전체 평균
+        mathAvg = mathTotal/(float)score.length;    // 수학 전체 평균
+
+        System.out.printf("과목 평균:%5.1f%5.1f%5.1f", koAvg, enAvg, mathAvg);
     }
 }
