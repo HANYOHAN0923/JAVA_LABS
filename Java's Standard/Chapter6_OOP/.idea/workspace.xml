@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d142766f-a9cd-473b-b3ec-81166e53807d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Chapter5_Array/src/utilizeArray/TotalAverageMaxMin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Chapter5_Array/out/production/Chapter5_Array/ArrayCopyExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter5_Array/out/production/Chapter5_Array/ArrayCopyExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Chapter5_Array/out/production/Chapter5_Array/ArrayCopyExample2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter5_Array/out/production/Chapter5_Array/ArrayCopyExample2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Chapter5_Array/out/production/Chapter5_Array/ArrayExample1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter5_Array/out/production/Chapter5_Array/ArrayExample1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Chapter5_Array/out/production/Chapter5_Array/ArrayExample2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter5_Array/out/production/Chapter5_Array/ArrayExample2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Chapter5_Array/out/production/Chapter5_Array/utilizeArray/MaxMin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Chapter5_Array/out/production/Chapter5_Array/utilizeArray/TotalAverage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Chapter5_Array/src/ArrayCopyExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter5_Array/src/ArrayCopyExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Chapter5_Array/src/ArrayCopyExample2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter5_Array/src/ArrayCopyExample2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Chapter5_Array/src/utilizeArray/MaxMin.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Chapter5_Array/src/utilizeArray/TotalAverage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JAVA 정리.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,12 +18,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
