@@ -38,9 +38,9 @@ public class MultiArrEx1 {
             System.out.println("좌표를 입력하세요. (종료는 00)>");
             String input = scanner.nextLine(); // 유저의 입력을 input에 저장
 
-            if(input.length() == 2) {
-                x = input.charAt(0) - '0';  // 문자를 숫자로 변환 ASCII
-                y = input.charAt(1) - '0';
+            if(input.length() == 2) {   // 유저로부터 2자리수를 문자열로 받아온다
+                x = input.charAt(0) - '0';  // 받아온 두자리 문자열 중에 앞자리 문자를 숫자로 변환 ASCII
+                y = input.charAt(1) - '0';  // 받아온 두자리 문자열 중에 뒷자리 문자를 숫자로 변환 ASCII
 
                 if (x == 0 && y == 0) break; // 00을 입력하면 종료
             }
@@ -54,9 +54,11 @@ public class MultiArrEx1 {
             // board index 0~9, length = 10
             // coordinate 0~8, length = 9
             // 그냥 찾고 싶은데로 coordinate의 주석 번호보고 그대로 하면되는데, 좌표로볼때 [x] 값은  y축, [y] 값은 x축이라고 생각하자
+            // 여기서 coordinate에 -1 해주는 이유는 line26 참고
             board[x][y] = coordinate[x-1][y-1] == 1 ? 'O' : 'X';
 
             // 배열 board의 내용을 화면에 출력한다
+            // 중요! 원래는 2중 반복문으로 2차원 배열을 출력하는 것이 맞지만 char배열인 경우 println메서드가 모든 1차원 배열들을  출력할 수 있다.
             for (int i = 0; i <SIZE; i++) System.out.println(board[i]);     // board[i]는 1차원 배열
             System.out.println();
         }

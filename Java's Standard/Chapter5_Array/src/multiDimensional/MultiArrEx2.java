@@ -23,7 +23,7 @@ public class MultiArrEx2 {
             for (int j = 0; j < SIZE; j++)
                 bingo[i][j] = i*SIZE + j + 1;
 
-        // 배열에 저장된 값을 셔플
+        // 배열에 저장된 값을 셔플 (utilizeArray Package: Shuffle2 방법을 2차원 배열에 적용)
         for (int i = 0; i < SIZE; i++) {
             for (int j = 0; j < SIZE; j++) {
                 x = (int)(Math.random()*SIZE);
@@ -37,9 +37,10 @@ public class MultiArrEx2 {
         }
 
         do {
+            // 빙고 2차원 배열 출력
             for (int i = 0; i < SIZE; i++) {
                 for(int j = 0; j < SIZE;j++) System.out.printf("%2d",bingo[i][j]);
-                System.out.println();
+                System.out.println(); // printf메소드라 개행을 해서 5x5 빙고판 형태로 출력하려고
             }
             System.out.println();
 
@@ -47,6 +48,8 @@ public class MultiArrEx2 {
             String temp = scanner.nextLine();
             num = Integer.parseInt(temp);
 
+
+            // 입력된 수가 빙고 안에 있으면 해당 수의 값을 0으로 변경
             outer:
             for (int i = 0; i < SIZE; i++){
                 for (int j = 0; j < SIZE; j++) {
