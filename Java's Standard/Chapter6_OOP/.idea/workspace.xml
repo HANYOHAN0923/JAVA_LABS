@@ -5,9 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d142766f-a9cd-473b-b3ec-81166e53807d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Explanation.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IphoneTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classObject/Explanation.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classObject/TvTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classObject/TvTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classObject/TvTest3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classObject/TvTest4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variableMethod/CardTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variableMethod/Explanation.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter6_OOP/Explanation.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter6_OOP/Iphone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter6_OOP/IphoneTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Explanation.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IphoneTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classObject/IphoneTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercise/java_jungsuk3_연습문제_20160318.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise/java_jungsuk3_연습문제_20160318.pdf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,17 +50,66 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
-    <configuration name="IphoneTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IphoneTest" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/classObject" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.CardTest">
+    <configuration name="CardTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="variableMethod.CardTest" />
       <module name="Chapter6_OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="variableMethod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TvTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TvTest" />
+      <module name="Chapter6_OOP" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TvTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TvTest2" />
+      <module name="Chapter6_OOP" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TvTest4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TvTest4" />
+      <module name="Chapter6_OOP" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="classObject.TvTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classObject.TvTest" />
+      <module name="Chapter6_OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="classObject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.IphoneTest" />
+        <item itemvalue="Application.CardTest" />
+        <item itemvalue="Application.classObject.TvTest" />
+        <item itemvalue="Application.TvTest4" />
+        <item itemvalue="Application.TvTest2" />
+        <item itemvalue="Application.TvTest" />
       </list>
     </recent_temporary>
   </component>

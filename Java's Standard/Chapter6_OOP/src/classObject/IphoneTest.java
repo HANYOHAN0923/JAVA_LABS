@@ -1,3 +1,5 @@
+package classObject;
+
 class Iphone {
     int edition;
     String color;
