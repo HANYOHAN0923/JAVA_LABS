@@ -15,6 +15,7 @@ public class Q4_12 {
         }
 
          */
+
         for (int i = 1; i <= 9; i++) {
             for (int j = 1; j <= 3; j++) {
                 // y를 먼저 생각하고, y를 기반으로 x를 생각해서 설계하기
