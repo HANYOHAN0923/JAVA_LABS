@@ -5,20 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d142766f-a9cd-473b-b3ec-81166e53807d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/classObject/Explanation.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classObject/TvTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classObject/TvTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classObject/TvTest3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classObject/TvTest4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variableMethod/CardTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variableMethod/Explanation.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classObject/MyGalaxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variableMethod/Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variableMethod/MyMathTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/variableMethod/ReturnParameterValid.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Chapter6_OOP/Explanation.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Chapter6_OOP/Iphone.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Chapter6_OOP/IphoneTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Explanation.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IphoneTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classObject/IphoneTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exercise/java_jungsuk3_연습문제_20160318.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise/java_jungsuk3_연습문제_20160318.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter6_OOP/classObject/Iphone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter6_OOP/classObject/IphoneTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter6_OOP/variableMethod/CardTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter6_OOP/variableMethod/CardTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter6_OOP/variableMethod/Explanation.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter6_OOP/variableMethod/Explanation.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classObject/IphoneTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classObject/TvTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classObject/TvTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/variableMethod/CardTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/variableMethod/CardTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/variableMethod/Explanation.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/variableMethod/Explanation.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +54,7 @@
       <recent name="$PROJECT_DIR$/src/classObject" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CardTest">
+  <component name="RunManager" selected="Application.MyGalaxy">
     <configuration name="CardTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="variableMethod.CardTest" />
       <module name="Chapter6_OOP" />
@@ -69,23 +68,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TvTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TvTest" />
+    <configuration name="Method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="variableMethod.Method" />
       <module name="Chapter6_OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="variableMethod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TvTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TvTest2" />
+    <configuration name="MyGalaxy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="classObject.MyGalaxy" />
       <module name="Chapter6_OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="classObject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TvTest4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TvTest4" />
+    <configuration name="MyMathTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="variableMethod.MyMathTest" />
       <module name="Chapter6_OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="variableMethod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -105,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyGalaxy" />
+        <item itemvalue="Application.MyMathTest" />
+        <item itemvalue="Application.Method" />
         <item itemvalue="Application.CardTest" />
         <item itemvalue="Application.classObject.TvTest" />
-        <item itemvalue="Application.TvTest4" />
-        <item itemvalue="Application.TvTest2" />
-        <item itemvalue="Application.TvTest" />
       </list>
     </recent_temporary>
   </component>

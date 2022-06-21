@@ -12,7 +12,7 @@ class Tv {
     void channelDown() {--channel;}
 }
 
-// 참조변수의 타입은 인스턴스의 타입과 일치해야한다?????
+
 public class TvTest {
     public static void main(String[] args) {
         Tv t;                   // Tv인스턴스를 참조하기 위한 변수 t를 선언
