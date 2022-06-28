@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="d142766f-a9cd-473b-b3ec-81166e53807d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter6_OOP/variableMethod/ReturnParameterValid.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter6_OOP/variableMethod/ReturnParameterValid.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/variableMethod/ReturnParameterValid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/variableMethod/ReturnParameterValid.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +44,7 @@
       <recent name="$PROJECT_DIR$/src/classObject" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MyGalaxy">
+  <component name="RunManager" selected="Application.ReturnParameterValid">
     <configuration name="CardTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="variableMethod.CardTest" />
       <module name="Chapter6_OOP" />
@@ -95,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="classObject.TvTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classObject.TvTest" />
+    <configuration name="ReturnParameterValid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="variableMethod.ReturnParameterValid" />
       <module name="Chapter6_OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="classObject.*" />
+          <option name="PATTERN" value="variableMethod.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReturnParameterValid" />
         <item itemvalue="Application.MyGalaxy" />
         <item itemvalue="Application.MyMathTest" />
         <item itemvalue="Application.Method" />
         <item itemvalue="Application.CardTest" />
-        <item itemvalue="Application.classObject.TvTest" />
       </list>
     </recent_temporary>
   </component>

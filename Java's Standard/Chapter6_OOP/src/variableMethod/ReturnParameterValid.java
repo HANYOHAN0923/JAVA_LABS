@@ -6,7 +6,7 @@ public class ReturnParameterValid {
 
     static float divide(int x, int y) {
         if (y == 0) {
-            System.out.println("Can not dived with Zero");
+            System.out.println("Can not divided with Zero");
             return 0; // 매개변수가 유효하지 않으므로 메서드를 종료할 때 사용
         }
 
@@ -14,6 +14,7 @@ public class ReturnParameterValid {
     }
 
     public static void main(String[] args) {
-
+        System.out.println(divide(8,2));
+        System.out.println(divide(11,0));
     }
 }
