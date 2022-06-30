@@ -11,8 +11,8 @@ public class Q5_9 {
 
         char[][] result = new char[star[0].length][star.length];
 
-        for (int i = 0; i < star.length; i++) {
-            for (int j = 0; j < star[i].length; j++) System.out.print(star[i][j]);
+        for (char[] chars : star) {
+            for (int j = 0; j < chars.length; j++) System.out.print(chars[j]);
             System.out.println();
         }
 
