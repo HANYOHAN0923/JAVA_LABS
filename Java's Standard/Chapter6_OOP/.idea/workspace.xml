@@ -5,9 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d142766f-a9cd-473b-b3ec-81166e53807d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Explanation.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class_instanceMethod/Explanation.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class_instanceMethod/MemberCall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class_instanceMethod/MyMathTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pri_ref_type_parameter/Explanation.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pri_ref_type_parameter/PrimitiveParameterEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pri_ref_type_parameter/ReferenceParameterEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pri_ref_type_parameter/ReferenceParameterEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pri_ref_type_parameter/ReferenceParameterEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pri_ref_type_parameter/ReferenceReturnEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pri_ref_type_parameter/ReturnTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/recursiveCall/Explanation.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/recursiveCall/FactorialTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/recursiveCall/FactorialTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/recursiveCall/PowerTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jvm_memory_structure/CallStackTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jvm_memory_structure/CallStackTest2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/jvm_memory_structure/Explanation.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/jvm_memory_structure/Explanation.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Chapter6_OOP/variableMethod/ReturnParameterValid.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter6_OOP/variableMethod/ReturnParameterValid.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,13 +59,13 @@
       <recent name="$PROJECT_DIR$/src/classObject" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ReturnParameterValid">
-    <configuration name="CardTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variableMethod.CardTest" />
+  <component name="RunManager" selected="Application.MyMathTest">
+    <configuration name="FactorialTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="recursiveCall.FactorialTest" />
       <module name="Chapter6_OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="variableMethod.*" />
+          <option name="PATTERN" value="recursiveCall.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,25 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Method" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variableMethod.Method" />
+    <configuration name="FactorialTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="recursiveCall.FactorialTest2" />
       <module name="Chapter6_OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="variableMethod.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MyGalaxy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="classObject.MyGalaxy" />
-      <module name="Chapter6_OOP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="classObject.*" />
+          <option name="PATTERN" value="recursiveCall.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,11 +87,11 @@
       </method>
     </configuration>
     <configuration name="MyMathTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variableMethod.MyMathTest" />
+      <option name="MAIN_CLASS_NAME" value="class_instanceMethod.MyMathTest" />
       <module name="Chapter6_OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="variableMethod.*" />
+          <option name="PATTERN" value="class_instanceMethod.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +99,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReturnParameterValid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="variableMethod.ReturnParameterValid" />
+    <configuration name="ReferenceParameterEx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pri_ref_type_parameter.ReferenceParameterEx3" />
       <module name="Chapter6_OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="variableMethod.*" />
+          <option name="PATTERN" value="pri_ref_type_parameter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReferenceReturnEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pri_ref_type_parameter.ReferenceReturnEx" />
+      <module name="Chapter6_OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pri_ref_type_parameter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ReturnParameterValid" />
-        <item itemvalue="Application.MyGalaxy" />
         <item itemvalue="Application.MyMathTest" />
-        <item itemvalue="Application.Method" />
-        <item itemvalue="Application.CardTest" />
+        <item itemvalue="Application.FactorialTest2" />
+        <item itemvalue="Application.FactorialTest" />
+        <item itemvalue="Application.ReferenceReturnEx" />
+        <item itemvalue="Application.ReferenceParameterEx3" />
       </list>
     </recent_temporary>
   </component>
