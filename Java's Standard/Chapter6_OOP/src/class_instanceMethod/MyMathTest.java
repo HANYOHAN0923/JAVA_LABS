@@ -29,5 +29,3 @@ public class MyMathTest {
         System.out.println(mm.subtract());
     }
 }
-
-
