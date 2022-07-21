@@ -5,26 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d142766f-a9cd-473b-b3ec-81166e53807d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/constructor/DefaultConstructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constructor/Explanation.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constructor/InstanceCopy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constructor/ParameterConstructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constructor/ThisEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/initializeVariable/BlockTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/initializeVariable/DocumentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/initializeVariable/Explanation.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/initializeVariable/InitTest.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/initializeVariable/InstanceInitialiazationBlock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/initializeVariable/ProductTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/initializeVariable/StaticBlockTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/overloading/Explanation.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/overloading/VarArgsEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/recursiveCall/FactorialExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Chapter6_OOP/Explanation.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter6_OOP/Explanation.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Chapter6_OOP/class_instanceMethod/Explanation.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Chapter6_OOP/class_instanceMethod/Explanation.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Explanation.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Explanation.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class_instanceMethod/MyMathTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class_instanceMethod/MyMathTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +44,7 @@
       <recent name="$PROJECT_DIR$/src/classObject" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DocumentTest">
+  <component name="RunManager" selected="Application.VarArgsEx">
     <configuration name="DocumentTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="initializeVariable.DocumentTest" />
       <module name="Chapter6_OOP" />
@@ -116,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThisEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="constructor.ThisEx" />
+    <configuration name="VarArgsEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="overloading.VarArgsEx" />
       <module name="Chapter6_OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="constructor.*" />
+          <option name="PATTERN" value="overloading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.VarArgsEx" />
         <item itemvalue="Application.DocumentTest" />
         <item itemvalue="Application.ProductTest" />
         <item itemvalue="Application.StaticBlockTest" />
         <item itemvalue="Application.InstanceCopy" />
-        <item itemvalue="Application.ThisEx" />
       </list>
     </recent_temporary>
   </component>
